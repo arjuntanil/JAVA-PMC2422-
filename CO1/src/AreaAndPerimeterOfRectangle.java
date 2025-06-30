@@ -14,8 +14,8 @@ public class AreaAndPerimeterOfRectangle {
         int area = length * breadth;
         int perimeter = 2*(length + breadth);
 
-        System.out.println("Area of the rectangle = " + area);
-        System.out.println("Perimeter of the rectangle = " + perimeter);
+        System.out.println("Area of the given rectangle = " + area);
+        System.out.println("Perimeter of the given rectangle = " + perimeter);
 
     }
 }
